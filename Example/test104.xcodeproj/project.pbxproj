@@ -18,9 +18,9 @@
 		96DA1BF6A683AED754C207A8 /* Pods-test104_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-test104_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-test104_Tests/Pods-test104_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		CDD5551386DB7FCAA96EFA1B /* Pods_test104_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_test104_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6D38BAEF82489F9ADCD4094 /* Pods-test104_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-test104_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-test104_Tests/Pods-test104_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		E1E5E68797D60921493BFEA3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		EDBF554EB6DBED480D164DC4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		F604364352BC4DA21DF47236 /* test104.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = test104.podspec; path = ../test104.podspec; sourceTree = "<group>"; };
+		E1E5E68797D60921493BFEA3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		EDBF554EB6DBED480D164DC4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		F604364352BC4DA21DF47236 /* test104.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = test104.podspec; path = ../test104.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,10 +130,6 @@
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = CocoaPods;
 				TargetAttributes = {
-					607FACCF1AFB9204008FA782 = {
-						CreatedOnToolsVersion = 6.3.1;
-						LastSwiftMigration = 0900;
-					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
 						LastSwiftMigration = 0900;

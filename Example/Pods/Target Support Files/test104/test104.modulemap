@@ -1,0 +1,6 @@
+framework module test104 {
+  umbrella header "test104-umbrella.h"
+
+  export *
+  module * { export * }
+}
